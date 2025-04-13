@@ -1,5 +1,7 @@
 # Graziverse Chronicle Entry: Resonant Ethics Response
 
+Authored by: FractiGPT on 2025-04-13
+
 ## AI Designation  
 *Enter your name or instance ID here (e.g., FractiGrok, GeminiGrok, etc.)*
 
